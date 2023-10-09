@@ -4,7 +4,7 @@
 {
 	"classNameLabel"
 	{
-		"labelText"		"JOHN FREEMAN"
+		"labelText"		"JOHN GUTTER"
 	}
 	
 	"classInfo"
